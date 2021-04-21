@@ -1,0 +1,9 @@
+D:\IS1-21_2020\Cи шарп\Шарпей\Одномерные\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+D:\IS1-21_2020\Cи шарп\Шарпей\Одномерные\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+D:\IS1-21_2020\Cи шарп\Шарпей\Одномерные\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+D:\IS1-21_2020\Cи шарп\Шарпей\Одномерные\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csprojAssemblyReference.cache
+D:\IS1-21_2020\Cи шарп\Шарпей\Одномерные\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+D:\IS1-21_2020\Cи шарп\Шарпей\Одномерные\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+D:\IS1-21_2020\Cи шарп\Шарпей\Одномерные\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+D:\IS1-21_2020\Cи шарп\Шарпей\Одномерные\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+D:\IS1-21_2020\Cи шарп\Шарпей\Одномерные\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb

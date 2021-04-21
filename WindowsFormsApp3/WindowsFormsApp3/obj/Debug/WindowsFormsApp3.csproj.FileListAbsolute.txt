@@ -1,0 +1,8 @@
+D:\ИС1-21 2021\Тот, кто удалит - Терпилоид\Многомерные\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+D:\ИС1-21 2021\Тот, кто удалит - Терпилоид\Многомерные\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+D:\ИС1-21 2021\Тот, кто удалит - Терпилоид\Многомерные\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+D:\ИС1-21 2021\Тот, кто удалит - Терпилоид\Многомерные\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+D:\ИС1-21 2021\Тот, кто удалит - Терпилоид\Многомерные\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\ИС1-21 2021\Тот, кто удалит - Терпилоид\Многомерные\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+D:\ИС1-21 2021\Тот, кто удалит - Терпилоид\Многомерные\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+D:\ИС1-21 2021\Тот, кто удалит - Терпилоид\Многомерные\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
